@@ -1,0 +1,14 @@
+I want to create a "feature branch" from the develop branch.
+
+1. checkout or change into "develop"
+2. git branch                   // to see which you are on.
+3. git checkout -b feature main //create feature from main
+4. git checkout feature
+
+git status
+git add .
+git commit -m "add files to feature branch"
+git push --set-upstream origin feature
+
+cli merge?
+
