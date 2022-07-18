@@ -12,3 +12,4 @@ git push --set-upstream origin feature
 
 cli merge?
 
+Github browser,  pull request to merge into main
